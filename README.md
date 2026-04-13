@@ -25,16 +25,16 @@ The board maps directly to the **Dispenser Main Board** analog inputs:
 ## 🖼️ Project Visuals
 
 ### Schematic
-![Schematic](Images/SCH.png)
+![Schematic](images/SCH.png)
 
 ### PCB Layout
-![PCB Layout](Images/PCB_Layout.png)
+![PCB Layout](images/PCB_Layout.png)
 
 ### 3D Board Top View
-![3D Top View](Images/TopView.png)
+![3D Top View](images/TopView.png)
 
 ### 3D Board Bottom View
-![3D Bottom View](Images/BottomView.png)
+![3D Bottom View](images/BottomView.png)
 
 ---
 
