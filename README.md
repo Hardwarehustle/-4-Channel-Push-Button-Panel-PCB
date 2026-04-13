@@ -107,21 +107,6 @@ Push-Button-Panel/
 ├── Gerber/
 └── README.md
 ```
-
----
-
-## 🏷️ GitHub Topics
-
-```
-push-button  pcb-design  easyeda  tactile-switch  input-panel
-jst-connector  breakout-board  embedded-hardware  sub-pcb
-```
-
-**GitHub About (1 line):**
-> Compact 4-channel tactile push button panel PCB with JST XH connectors — plugs directly into the Dispenser main board analog inputs A0–A3.
-
----
-
 ## 📄 License
 
 © 2024 Janardhan BV — Open for educational and personal use.
