@@ -1,4 +1,4 @@
-# 🔘 4-Channel Push Button Panel PCB
+# 4-Channel Push Button Panel PCB
 
 > **Designed by:** Janardhan BV  
 > **Tool:** EasyEDA  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This is a compact **4-channel tactile push button breakout panel** designed as a plug-in input sub-board. It houses four **6×6×6mm tactile push buttons** (RESET1–RESET4), each wired to a dedicated **JST B2B-XH-A-M 2-pin connector** (P1–P4), allowing the buttons to be remotely mounted on an enclosure panel and connected back to the main control board via JST XH cables.
 
@@ -22,7 +22,7 @@ The board maps directly to the **Dispenser Main Board** analog inputs:
 
 ---
 
-## 🖼️ Project Visuals
+## Project Visuals
 
 ### Schematic
 ![Schematic](images/SCH.png)
@@ -38,7 +38,7 @@ The board maps directly to the **Dispenser Main Board** analog inputs:
 
 ---
 
-## 📊 Component BOM
+## Component BOM
 
 | Ref | Component | Part | Qty |
 |:---:|:---|:---|:---:|
@@ -47,7 +47,7 @@ The board maps directly to the **Dispenser Main Board** analog inputs:
 
 ---
 
-## 🔌 Circuit Operation
+## Circuit Operation
 
 Each button circuit is identical and straightforward:
 
@@ -64,7 +64,7 @@ JST Connector (P1–P4)
 
 ---
 
-## 📐 PCB Design Highlights
+## PCB Design Highlights
 
 - **EDA Tool:** EasyEDA
 - **Board Shape:** Compact rectangular with rounded corners and 2 mounting holes
@@ -74,7 +74,7 @@ JST Connector (P1–P4)
 
 ---
 
-## 🔗 Connection to Main Board (Dispenser PCB)
+## Connection to Main Board (Dispenser PCB)
 
 Plug each JST cable from this panel into the corresponding connector on the **Dispenser Main Board**:
 
@@ -89,7 +89,7 @@ P4 (2-pin JST) ──────────► P4 (A3, GND)
 
 ---
 
-## 🧪 Testing
+## Testing
 
 1. **Continuity check** — Verify each button pin 1 (signal) to connector pin 1 with multimeter
 2. **Press test** — With button pressed, verify continuity between signal and GND
@@ -97,7 +97,7 @@ P4 (2-pin JST) ──────────► P4 (A3, GND)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Push-Button-Panel/
@@ -107,14 +107,14 @@ Push-Button-Panel/
 ├── Gerber/
 └── README.md
 ```
-## 📄 License
+## License
 
 © 2024 Janardhan BV — Open for educational and personal use.
 
 ---
 
-## 🙋 Author
+## Author
 
 **Janardhan BV** | Embedded Hardware Engineer  
-📍 Bengaluru, India  
-*Designed in EasyEDA*
+ Bengaluru, India  
+ Designed in EasyEDA*
